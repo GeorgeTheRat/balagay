@@ -11,7 +11,7 @@
 local function init()
     G.localization.misc.poker_hands['Full house'] = "Full Horse"
     G.localization.misc.poker_hands['Flush house'] = "Flush Horse"
-
+end
 
 
 
