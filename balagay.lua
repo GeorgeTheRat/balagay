@@ -12,7 +12,15 @@ local function init()
     G.localization.misc.poker_hands['Straight Flush'] = "Gay Flush"
     G.localization.misc.poker_hands['Straight'] = "Gay"
     G.localization.misc.poker_hands['Royal Flush'] = "Royal Gay Flush"
-
+    
+    -- fix for Eris
+    G.localization.descriptions.Consumable["c_eris"].text = {
+        "Glues your {C:attention}Flush Horse{}"
+    }
+        -- fix for Eris
+    G.localization.descriptions.Consumable["c_eris"].text = {
+        "Glues your {C:attention}Full Horse{}"
+    }
     -- fix for Runner
     G.localization.descriptions.Joker["j_runner"].text = {
         "Gains {C:chips}+#2#{} Chips",
