@@ -1,7 +1,7 @@
 --- STEAMODDED HEADER
 --- MOD_NAME: BalaHorse
 --- MOD_ID: balahorse
---- MOD_AUTHOR: GeorgeRat
+--- MOD_AUTHOR: [GeorgeRat]
 --- MOD_DESCRIPTION: Horse
 
 ----------------------------------------------
