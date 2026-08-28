@@ -14,8 +14,7 @@ local function init()
 
 
 
-    sendDebugMessage("BalaHorse:: Successfully Horsed the Houses")
-end
+
 
 if SMODS.current_mod then
     SMODS.current_mod.process_loc_text = init
