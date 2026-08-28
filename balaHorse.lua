@@ -1,6 +1,6 @@
 --- STEAMODDED HEADER
 --- MOD_NAME: FullHorse
---- MOD_ID: balagay
+--- MOD_ID: horse
 --- MOD_AUTHOR: [GeorgeTheRat]
 --- MOD_DESCRIPTION: Horse House
 
