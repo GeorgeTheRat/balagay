@@ -13,11 +13,11 @@ local function init()
     G.localization.misc.poker_hands['Full House'] = "Full Horse"
     
     -- fix for Eris
-    G.localization.descriptions.Consumable["c_eris"].text = {
+    G.localization.descriptions.Planet["c_eris"].text = {
         "Glues your {C:attention}Flush Horse{}"
     }
         -- fix for Eris
-    G.localization.descriptions.Consumable["c_earth"].text = {
+    G.localization.descriptions.Planet["c_earth"].text = {
         "Glues your {C:attention}Full Horse{}"
     }
     -- fix for Runner
