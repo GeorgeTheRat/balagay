@@ -20,4 +20,3 @@ if SMODS.current_mod then
 else
     init()
 end
-```
